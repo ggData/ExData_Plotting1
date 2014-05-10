@@ -1,4 +1,16 @@
-## Introduction
+## This Repository
+
+This is a project submission for Project Assignment 1 in the Coursera course: [Exploratory Data Analysis](https://class.coursera.org/exdata-002/). The details of the assignment are described in "Specification" below.
+
+The assignment files are named `plot[1|2|3|4].R` and when run using R, they generate four `.png` files named `plot[1|2|3|4].png` respectively.
+
+**Note**: Since the dataset is not included in this repository, these scripts will only work if the following steps have been taken:
+
+1. Download the dataset <a href="https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip">Electric power consumption</a> [20Mb]
+2. Create local folder called data
+3. Unzip the archive into the the data folder
+
+## Specifications
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
